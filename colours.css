@@ -15,6 +15,22 @@ Create your CSS colour variables up here
   --grey4:
 }
 **/
+:root{
+  --main-primary-one:hsl(195, 30%, 40%);
+  --main-primary-two:hsl(195, 84%, 45%);
+  --main-primary-three:hsl(195, 94%, 50%);
+
+  --main-secondary-one:hsl(100,100%,100%);
+  --main-secondary-two:hsl(101, 10%, 90%);
+  --main-secondary-three:hsl(100, 90%, 80%);
+
+  --main-crey-one:hsl(180, 1%, 25%);
+  --main-crey-tow: hsl(180, 1%, 40%);
+  --main-crey-one:hsl(180, 4%, 73%);
+  
+  
+
+}
 
 * {
   padding: 0;
